@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9df11d2ad44624917bf3586aa9303279, type: 3}
+  m_Name: Gelo
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 63fa71b97ffaa2943add0ab18c5e83df, type: 3}
+  - {fileID: 21300000, guid: aa23f09a2a3053b40bf3aaa107e28660, type: 3}
+  - {fileID: 21300000, guid: 2b2bac2db25fe6d44aa0643479815a3b, type: 3}
+  - {fileID: 21300000, guid: 83f870f46fd874e4894a120b6a8fb9f8, type: 3}
+  m_MinSpeed: 3
+  m_MaxSpeed: 3
+  m_AnimationStartTime: 0
+  m_TileColliderType: 1
